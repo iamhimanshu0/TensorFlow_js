@@ -1,3 +1,10 @@
+// linear Regression using Tensorflow.js and p5 js 
+// intrective program  //
+
+// ******************** //
+    // Himanshu Tripathi
+// ******************** //
+
 let x_val = [];
 let y_val = [];
 
